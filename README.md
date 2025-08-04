@@ -2,33 +2,33 @@
   </p>
 
 <p align="center">
-  <h1 align="center">SENU-MD 3.0</h1>
+  <h1 align="center">PRIME ALPHA-XMD 1.0</h1>
 </p>
 
-> **`Updated` The Version 3.0**
+> **`Updated` The Version 1.0**
 
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SENU-MD-+v3.0+MultiDevice;Developed+by+SenuMd;Give+star+and+forks+this+Repo+🌟" alt="SENU110Readme">
+    <img src="https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg;Developed+by+SenuMd;Give+star+and+forks+this+Repo+🌟" alt="PRIME ALPHA110Readme">
   </a>
 </p>
 
-<a><img src='https://files.catbox.moe/zkv7u1.jpg'/></a>
-<h1 align="center"> SENU-MD </h1> 
-<p align="center">SENU-MD made for people, on Earth </p>
+<a><img src='https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg'/></a>
+<h1 align="center"> PRIME ALPHA-XMD </h1> 
+<p align="center">PRIME ALPHA-XMD made for people, on Earth </p>
 
  
    
 <p align="center">
  <h2>WhatsApp channel</h2>
-  <a href="https://whatsapp.com/channel/0029Vb2OcviBFLgPzVjWhE0n" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb9yA9K9sBI799oc7U2T" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Join Whatsapp Channel For Updates-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 
 
-<p align="center"> SENU-MD uses
+<p align="center"> PRIME ALPHA-XMD uses
   <a href="https://github.com/WhiskeySockets/Baileys)**">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -82,7 +82,7 @@
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VazFu9h7dmeQZLEuWB0V/229">
+  <a href="https://whatsapp.com/channel/0029Vb9yA9K9sBI799oc7U2T">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
