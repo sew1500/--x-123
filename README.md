@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=SENU-MD-BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=PRIME ALPHA-XMD-SIMPLE WA BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
@@ -37,15 +37,15 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://senu-md-pair-8o5q.onrender.com/)
+1. Link your WhatsApp by [`PAIR CODE`]
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Awais-star-a11y/AWAIS-MD-V3)
+3. Deploy On Heruku .[`HEROKU`]()
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://dashboard.render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
@@ -113,7 +113,7 @@
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 JESTER STATUS
+## 👑 SHERON 
 
 ```diff
 + Project Status: Active
