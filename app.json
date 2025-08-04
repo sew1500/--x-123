@@ -1,8 +1,8 @@
 {
-  "name": "SENU-MD",
-  "description": "Javascript WhatsApp bot made by JESTER TECHX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["SENU-MD"],
+  "name": "PRIME ALPHA-XMD",
+  "description": "WORLD BEST WA BOT CREATED BY ALPHAX",
+  "logo": "https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg",
+  "keywords": ["PRIME ALPHA-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "JESTER TECHX"
+      "value": "SHERON ELIJAH "
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "94788770020"
+      "value": "94770349867"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SENU-MD"
+      "value": "PRIME ALPHA-XMD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴡʜɪᴛᴇ ᴀʟᴘʜᴀ ᴡᴏʟꜰ x ᴛᴇᴀᴍ*"
     },
 
       "DELETE_LINKS": {
