@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0001&center=true&width=1000&height=200&lines=PRIME-ALPHA-XMD" alt="Typing SVG" /></a>
   </p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF03E&center=true&width=1000&height=200&lines=BOT-OWNER-SHERON" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF03E&center=true&width=1000&height=200&lines=OWNER-SHERON" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
