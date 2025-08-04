@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=PRIME ALPHA-XMD-SIMPLE WA BOT" alt="PRIME ALPHA-XMD" /></a>
+<a href="https://i.ibb.co/3ykHcMgz/O6qt-Dy-T3a-V.jpg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=PRIME ALPHA-XMD-SIMPLE WA BOT" alt="PRIME ALPHA-XMD" /></a>
   </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg;Developed+by+SenuMd;Give+star+and+forks+this+Repo+🌟" alt="PRIME ALPHA110Readme">
+    <img src="https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg;Developed+by+PRIME ALPHA-XMD;Give+star+and+forks+this+Repo+🌟" alt="PRIME ALPHA110Readme">
   </a>
 </p>
 
-<a><img src='https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg'/></a>
+<a><img src='https://i.ibb.co/s44p1hN/8psu-Pn-Jo-Zr.jpg'/></a>
 <h1 align="center"> PRIME ALPHA-XMD </h1> 
 <p align="center">PRIME ALPHA-XMD made for people, on Earth </p>
 
