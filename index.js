@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['94788770020']
+  const ownerNumber = ['94770349867']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -113,21 +113,21 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `╭─〔 *🤖 SENU-MD BOT* 〕  
-├─▸ *Ultra Super Fast Powerfull ⚠️*  
-│     *World Best BOT SENU-MD* 
+  let up = `╭─〔 *🤖 PRIME ALPHA-XMD BOT* 〕  
+├─▸ *Ultra Super Fast Powerfull 🚀⚠️*  
+│     *World Best BOT PRIME ALPHA-XMD* 
 ╰─➤ *Your Smart WhatsApp Bot is Ready To use 🍁!*  
 
-- *🖤 Thank You for Choosing SENU-MD!* 
+- *💗 Thank You for Choosing PRIME ALPHA-XMD!* 
 
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = ${prefix}
 ├─ 📢 *Join Channel:*  
-│    https://whatsapp.com/channel/0029Vb2OcviBFLgPzVjWhE0n  
+│    https://whatsapp.com/channel/0029Vb9yA9K9sBI799oc7U2T  
 ├─ 🌟 *Star the Repo:*  
-│    https://github.com/Jester36/SENU-MD  
-╰─🚀 *Powered by JesterTechX*`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/3y5w8z.jpg` }, caption: up })
+│      https://github.com/sew1500
+╰─🚀 *Powered by WHITE ALPHA WOLF X TEAM*`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -215,7 +215,7 @@ const port = process.env.PORT || 9090;
   }
 
   const udp = botNumber.split('@')[0];
-    const jawadop = ('94788770020', '94775877546', '94783613116');
+    const jawadop = ('+94757950801', '94770349867');
     
     const ownerFilev2 = JSON.parse(fs.readFileSync('./lib/sudo.json', 'utf-8'));  
     
@@ -783,7 +783,7 @@ if (isBanned) return; // Ignore banned users completely
   }
   
   app.get("/", (req, res) => {
-  res.send("SENU MD STARTED ✅");
+  res.send("PRIME ALPHA XMD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
