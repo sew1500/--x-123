@@ -1,8 +1,8 @@
 {
-  "name": "PRIME ALPHA-XMD",
+  "name": "PRIME-ALPHA-XMD",
   "description": "WORLD BEST WA BOT CREATED BY ALPHAX",
   "logo": "https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg",
-  "keywords": ["PRIME ALPHA-XMD"],
+  "keywords": ["PRIME-ALPHA-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "PRIME ALPHA-XMD"
+      "value": "PRIME-ALPHA-XMD"
 
       }, 
 
