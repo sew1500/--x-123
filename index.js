@@ -125,7 +125,7 @@ const port = process.env.PORT || 9090;
 ├─ 📢 *Join Channel:*  
 │    https://whatsapp.com/channel/0029Vb9yA9K9sBI799oc7U2T  
 ├─ 🌟 *Star the Repo:*  
-│      https://github.com/sew1500
+│      https://github.com/sew1500/--x-123
 ╰─🚀 *Powered by WHITE ALPHA WOLF X TEAM*`;
     conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg` }, caption: up })
   }
