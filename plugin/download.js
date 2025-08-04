@@ -10,7 +10,7 @@ cmd({
   pattern: "ig2",
   alias: ["insta2", "Instagram2"],
   desc: "To download Instagram videos.",
-  react: "🎥",
+  react: "📥",
   category: "download",
   filename: __filename
 }, async (conn, m, store, { from, q, reply }) => {
@@ -164,7 +164,7 @@ cmd({
   pattern: "mediafire",
   alias: ["mfire"],
   desc: "To download MediaFire files.",
-  react: "🎥",
+  react: "📥",
   category: "download",
   filename: __filename
 }, async (conn, m, store, {
@@ -254,7 +254,7 @@ cmd({
 ┃ 📅 *Updated On:* ${app.updated}
 ┃ 👨‍💻 *Developer:* ${app.developer.name}
 ╰━━━━━━━━━━━━━━━┈⊷
-🔗 *Powered By JesterX-AI*`;
+🔗 *Powered By ᴡᴀᴡxᵀᴹ*`;
 
     await conn.sendMessage(from, { react: { text: "⬆️", key: m.key } });
 
@@ -305,7 +305,7 @@ cmd({
         document: { url: downloadUrl },
         mimetype: response.data.result.mimetype,
         fileName: response.data.result.fileName,
-        caption: "*© Powered By JesterTechX*"
+        caption: "*© Powered By ᴡᴀᴡxᵀᴹ*"
       }, { quoted: m });
 
       await conn.sendMessage(from, { react: { text: "✅", key: m.key } });
