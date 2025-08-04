@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ꜱʜᴇʀᴏɴ ᴇʟɪᴊᴀʜ",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴡʜɪᴛᴇ ᴀʟᴘʜᴀ ᴡᴏᴋꜰ x ᴛᴇᴀᴍ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/3y5w8z.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/s44p1hN/8psu-Pn-Jo-Zr.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> 𝐇𝐄𝐋𝐋𝐎𝐖 𝐈'𝐌 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖 👋 *PRIME ALPHA-XMD*⚡",
 // add alive msg here 
