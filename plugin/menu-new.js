@@ -15,17 +15,17 @@ cmd({
         // Count total commands
         const totalCommands = Object.keys(commands).length;
         
-        const menuCaption = `╭━━━〔 *🧚‍♂️𝐒ᴇɴᴜ x 𝐁ᴏᴛ🧚‍♂️* 〕━━━┈⊷
-│ ✓ 𝐎ᴡɴᴇʀ : *Jester*
+        const menuCaption = `╭━━━〔 *🐺 𝐏𝐑𝐈𝐌𝐄 𝐀𝐋𝐏𝐇𝐀-𝐗𝐌𝐃 🐺* 〕━━━┈⊷
+│ ✓ 𝐎ᴡɴᴇʀ : *𝐒𝐇𝐄𝐑𝐎𝐍*
 │ ✓ 𝐁ᴀɪʟᴇʏꜱ : *Multi Device*
 │ ✓ 𝐓ʏᴘᴇ : *NodeJs*
 │ ✓ 𝐏ʟᴀᴛꜰᴏʀᴍ : *Heroku*
 │ ✓ 𝐌ᴏᴅᴇ : *[${config.MODE}]*
 │ ✓ 𝐏ʀᴇꜰɪx : *[${config.PREFIX}]*
-│ ✓ 𝐕ᴇʀꜱɪᴏɴ : *5.0.0 Bᴇᴛᴀ*
+│ ✓ 𝐕ᴇʀꜱɪᴏɴ : *1.0.0 Bᴇᴛᴀ*
 │ ✓ 𝐂ᴏᴍᴍᴀɴᴅꜱ : *352*
 ╰━━━━━━━━━━━━━━━┈⊷
-╭━━〔 *🧚‍♂️𝐒ᴇɴᴜ x -ᴍᴇɴᴜ🧚‍♂️*  ━┈⊷
+╭━━〔 *🐺 𝐖𝐎𝐋𝐅 𝐌𝐄𝐍𝐔 🐺*  ━┈⊷
 ││❯❯ 01 *𝐃ᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ*
 ││❯❯ 02 *𝐆ʀᴏᴜᴘ ᴍᴇɴᴜ*
 ││❯❯ 03 *𝐅ᴜɴ ᴍᴇɴᴜ*
@@ -37,14 +37,14 @@ cmd({
 ││❯❯ 09 *𝐑ᴇᴀᴄᴛɪᴏɴꜱ ᴍᴇɴᴜ*
 ││❯❯ 10 *𝐌ᴀɪɴ ᴍᴇɴᴜ*
 ╰──────────────┈⊷
-> *🧚‍♂️𝐒ᴇɴᴜ x -𝐁ᴏᴛ🧚‍♂️*}`;
+> *🐺 𝐏𝐑𝐈𝐌𝐄 𝐀𝐋𝐏𝐇𝐀 𝐗-𝐁𝐎𝐓 🐺*}`;
 
         const contextInfo = {
             mentionedJid: [m.sender],
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363388320701164@newsletter',
+                newsletterJid: '120363419860434279@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
@@ -56,7 +56,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/3y5w8z.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
