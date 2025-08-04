@@ -10,7 +10,7 @@
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg;Developed+by+PRIME ALPHA-XMD;Give+star+and+forks+this+Repo+🌟" alt="PRIME ALPHA110Readme">
+    <img src="https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg;Give+star+and+forks+this+Repo+🌟" alt="PRIME ALPHA110Readme">
   </a>
 </p>
 
