@@ -37,9 +37,9 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://senu-md-pair-8o5q.onrender.com/)
+1. Link your WhatsApp by [`PAIR CODE`]()
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Awais-star-a11y/AWAIS-MD-V3)
+3. Deploy On Heruku .[`HEROKU`]()
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
