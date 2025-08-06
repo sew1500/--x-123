@@ -12,7 +12,7 @@
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src='https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg'/></a> alt="PRIME ALPHA-XMD V1">
+    <img src='https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg'/></a> <alt="PRIME ALPHA-XMD V1">
   </a>
 </p>
 
