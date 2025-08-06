@@ -12,11 +12,11 @@
 ---
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg;Developed+by+SenuMd;Give+star+and+forks+this+Repo+🌟" alt="PRIME ALPHA110Readme">
+    <img src='https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg'/></a> alt="PRIME ALPHA-XMD V1">
   </a>
 </p>
 
-<a><img src='https://i.ibb.co/1tQYm6zR/4z-S9-P9-Rhm9.jpg'/></a>
+<a><img src='https://i.ibb.co/s44p1hN/8psu-Pn-Jo-Zr.jpg'/></a>
 <h1 align="center"> PRIME ALPHA-XMD </h1> 
 <p align="center">PRIME ALPHA-XMD made for people, on Earth </p>
 
